@@ -7,3 +7,14 @@
     .container { 
         padding: 0px  50px;
     }
+
+    nav { 
+        background-color: #f3c8e9;
+        border-radius: 10px;
+        color: aliceblue;
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+        color: white;
+        box-shadow: 15px 15px 15px rgb(95, 94, 94);
+    }
